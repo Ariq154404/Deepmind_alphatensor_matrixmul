@@ -1,4 +1,5 @@
 References:
+
 R1:
 @misc{theindependentcode, title={TheIndependentCode/neural-network: Machine Learning Library for educational purpose.}, url={https://github.com/TheIndependentCode/Neural-Network}, journal={GitHub}, author={TheIndependentCode}}
 
